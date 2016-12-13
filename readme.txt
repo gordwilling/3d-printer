@@ -1,7 +1,3 @@
-A project report excerpt describing development of a sub-optimal voxelization algorithm. A clear window into how my brain works when approaching a new problem, being pwned by the problem, facing time constraints, refusing to be beaten, forced to compromise, then having everything work out as it always does. 
+In my final year at university for Electrical Engineering, my team of three designed and built a a 3d-printer from scratch. I designed and built the frame and other mechanical bits, researched and procured UV-activated resin samples and the UV light source, wrote the printer firmware (in C), printer driver for windows (in C++), and the UI for selecting, scaling, positioning and voxelizing the model (C++ & Direct3D) in preparation for printing. Another group member did a great job on the the motors and driving circuits, and the third guy had a great sense of humor.
 
-Code is not included because it was not reflective of my normal standards. The project was successful, but there were a lot of issues and emergencies on the electronics and mechanical side that required my attention. And there were 10 other classes to work on! 
-
-The project was ambitious & we were laughed at initially. We got it done and posted the highest grade.
-
-Don't tell me I can't do something.
+This is a project report excerpt describing development of the voxelization algorithm. The idea was so simple it had to work, but it didn't quite, and I compromised to get something going. We got a high grade and then school was over and I didn't care anymore!
